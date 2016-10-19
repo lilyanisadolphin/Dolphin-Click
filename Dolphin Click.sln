@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D454266D-BA85-8208-A283-A2F03D5CF534}") = "Dolphin Click", "Assembly-CSharp.csproj", "{3810B538-BC43-6808-4D21-2281C77A7F78}"
+EndProject
+Project("{D454266D-BA85-8208-A283-A2F03D5CF534}") = "Dolphin Click", "Assembly-CSharp-Editor.csproj", "{DFD9F9E0-EB3E-4573-2052-31D85E2A417F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3810B538-BC43-6808-4D21-2281C77A7F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3810B538-BC43-6808-4D21-2281C77A7F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3810B538-BC43-6808-4D21-2281C77A7F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3810B538-BC43-6808-4D21-2281C77A7F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD9F9E0-EB3E-4573-2052-31D85E2A417F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD9F9E0-EB3E-4573-2052-31D85E2A417F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD9F9E0-EB3E-4573-2052-31D85E2A417F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD9F9E0-EB3E-4573-2052-31D85E2A417F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
